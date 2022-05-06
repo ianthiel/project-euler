@@ -3,7 +3,7 @@
 
 # What is the largest prime factor of the number 600851475143 ?
 
-x = 600851475143
+x = 12
 prime_factors = []
 
 def isPrime(n):
